@@ -1,2 +1,2 @@
 # Windows-Application-Checklist
-Windows Application Checklist for all scenario's
+The attached excel sheet contains all scenarios checklist for any Windows Application. Please find it.
